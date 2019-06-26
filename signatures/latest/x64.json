@@ -146,5 +146,17 @@
       0,
       0
     ]
+  },
+  {
+    "Key": "DIALOG_PANEL",
+    "Value": "",
+    "ASMSignature": true,
+    "PointerPath": [
+      20,
+      38A8,
+	  228,
+      B0,
+	  0	  
+    ]
   }
 ]
