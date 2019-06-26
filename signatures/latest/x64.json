@@ -164,6 +164,8 @@
     "Key": "DIALOG_NAME",
     "Value": "240000000000000000000000",
     "ASMSignature": true,
-    "PointerPath": []
+    "PointerPath": [
+	0
+	]
   }
 ]
