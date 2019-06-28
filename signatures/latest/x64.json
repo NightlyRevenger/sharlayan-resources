@@ -10,13 +10,12 @@
   },
   {
     "Key": "CHATLOG",
-    "Value": "e8********85c0740e488b0d********33D2E8********488b0d",
+    "Value": "",
     "ASMSignature": true,
     "PointerPath": [
-      0,
-      0,
-      48,
-      908
+      28365128,
+      176,
+      1144
     ]
   },
   {
