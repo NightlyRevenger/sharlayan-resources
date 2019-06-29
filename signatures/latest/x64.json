@@ -9,14 +9,15 @@
     ]
   },
   {
-    "Key": "CHATLOG",
-    "Value": "",
     "ASMSignature": true,
+    "Key": "CHATLOG",
     "PointerPath": [
       28365128,
       176,
-      1144
-    ]
+      1144,
+      900
+    ],
+    "Value": ""
   },
   {
     "Key": "CHARMAP",
