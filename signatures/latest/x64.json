@@ -1,12 +1,12 @@
 [
   {
-    "Key": "TARGET",
-    "Value": "41bc000000e041bd01000000493bc47555488d0d",
     "ASMSignature": true,
+    "Key": "TARGET",
     "PointerPath": [
       0,
       144
-    ]
+    ],
+    "Value": "41bc000000e041bd01000000493bc47555488d0d"
   },
   {
     "ASMSignature": true,
@@ -20,152 +20,180 @@
     "Value": ""
   },
   {
-    "Key": "CHARMAP",
-    "Value": "488b420848c1e8033da701000077248bc0488d0d",
     "ASMSignature": true,
+    "Key": "CHARMAP",
     "PointerPath": [
       0,
       0
-    ]
+    ],
+    "Value": "488b420848c1e8033da701000077248bc0488d0d"
   },
   {
-    "Key": "PARTYMAP",
-    "Value": "488D7C242066660F1F840000000000488B17488D0D",
     "ASMSignature": true,
+    "Key": "PARTYMAP",
     "PointerPath": [
       0,
       752
-    ]
+    ],
+    "Value": "488D7C242066660F1F840000000000488B17488D0D"
   },
   {
-    "Key": "PARTYCOUNT",
-    "Value": "CCCCCCCC803D******0100751D803D",
     "ASMSignature": true,
+    "Key": "PARTYCOUNT",
     "PointerPath": [
       0,
       1
-    ]
+    ],
+    "Value": "CCCCCCCC803D******0100751D803D"
   },
   {
-    "Key": "MAPINFO",
-    "Value": "E8********CCCCCCCCCC48895C2408574883EC208B05",
     "ASMSignature": true,
+    "Key": "MAPINFO",
     "PointerPath": [
       0,
       16
-    ]
+    ],
+    "Value": "E8********CCCCCCCCCC48895C2408574883EC208B05"
   },
   {
-    "Key": "ZONEINFO",
-    "Value": "8B9084000000E8****0000EB**833D******000275**833D******000075**833D******000074**48C705",
     "ASMSignature": true,
+    "Key": "ZONEINFO",
     "PointerPath": [
       0,
       -4
-    ]
+    ],
+    "Value": "8B9084000000E8****0000EB**833D******000275**833D******000075**833D******000074**48C705"
   },
   {
-    "Key": "PLAYERINFO",
-    "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
+    "Key": "PLAYERINFO",
     "PointerPath": [
       0,
       0
-    ]
+    ],
+    "Value": "83f9ff7412448b048e8bd3488d0d"
   },
   {
-    "Key": "ENMITYMAP",
-    "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
+    "Key": "ENMITYMAP",
     "PointerPath": [
       0,
       -4656
-    ]
+    ],
+    "Value": "83f9ff7412448b048e8bd3488d0d"
   },
   {
-    "Key": "ENMITY_COUNT",
-    "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
+    "Key": "ENMITY_COUNT",
     "PointerPath": [
       0,
       -2352
-    ]
+    ],
+    "Value": "83f9ff7412448b048e8bd3488d0d"
   },
   {
-    "Key": "AGROMAP",
-    "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
+    "Key": "AGROMAP",
     "PointerPath": [
       0,
       -2344
-    ]
+    ],
+    "Value": "83f9ff7412448b048e8bd3488d0d"
   },
   {
-    "Key": "AGRO_COUNT",
-    "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
+    "Key": "AGRO_COUNT",
     "PointerPath": [
       0,
       -40
-    ]
+    ],
+    "Value": "83f9ff7412448b048e8bd3488d0d"
   },
   {
+    "ASMSignature": true,
     "Key": "HOTBAR",
-    "Value": "488B4708498B5D00498B7728488B3D",
-    "ASMSignature": true,
     "PointerPath": [
       0,
       0,
-      56, 
-      48, 
-      40, 
-      32, 
-      0, 
+      56,
+      48,
+      40,
+      32,
+      0,
       0
-    ]
+    ],
+    "Value": "488B4708498B5D00498B7728488B3D"
   },
   {
+    "ASMSignature": true,
     "Key": "RECAST",
-    "Value": "488B4708498B5D00498B7728488B3D",
-    "ASMSignature": true,
     "PointerPath": [
       0,
       0,
-      56, 
-      24, 
-      48, 
-      32, 
+      56,
+      24,
+      48,
+      32,
       60
-    ]
+    ],
+    "Value": "488B4708498B5D00498B7728488B3D"
   },
   {
-    "Key": "INVENTORY",
-    "Value": "48895C2408488974241048897C2418488B3D",
     "ASMSignature": true,
+    "Key": "INVENTORY",
     "PointerPath": [
       0,
       0
-    ]
+    ],
+    "Value": "48895C2408488974241048897C2418488B3D"
   },
   {
-    "Key": "DIALOG_PANEL",
-    "Value": "",
     "ASMSignature": true,
+    "Key": "DIALOGPANEL_NAME",
     "PointerPath": [
-	27986864,
-	32,
-	14504,
-	552,
-	184,
-	0	  
-    ]
+      28508224,
+	  32,
+	  14504,
+	  544,
+	  184,
+	  0	  
+    ],
+    "Value": ""
+  },
+   {
+    "ASMSignature": true,
+    "Key": "DIALOGPANEL_TEXT",
+    "PointerPath": [
+      28508224,
+	  32,
+	  14504,
+	  552,
+	  184,
+	  0
+    ],
+    "Value": ""
   },
   {
-    "Key": "DIALOG_NAME",
-    "Value": "2400000000000000000000003320**000000",
     "ASMSignature": true,
+    "Key": "DIALOGPANEL_TEXT_LENGTH",
     "PointerPath": [
-	0
-	]
+      28508224,
+	  32,
+	  14504,
+	  608
+    ],
+    "Value": ""
+  },
+  {
+    "ASMSignature": true,
+    "Key": "CUTSCENE_TEXT",
+    "PointerPath": [
+      28508224,
+	  264,
+	  104,
+	  568,
+	  0
+    ],
+    "Value": ""
   }
 ]
