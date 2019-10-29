@@ -12,10 +12,9 @@
     "ASMSignature": true,
     "Key": "CHATLOG",
     "PointerPath": [
-      28365128,
-      176,
-      1144,
-      900
+      29233880,
+      136,
+	  4564
     ],
     "Value": ""
   },
@@ -200,10 +199,10 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT2",
     "PointerPath": [
-	28508224,
-	80,
-	536,
-	0
+      28508224,
+      80,
+      536,
+      0
     ],
     "Value": ""
   },
@@ -211,10 +210,10 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT_LENGTH",
     "PointerPath": [
-	28508224,
-	264,
-	104,
-	584
+      28508224,
+      264,
+      104,
+      584
     ],
     "Value": ""
   },
