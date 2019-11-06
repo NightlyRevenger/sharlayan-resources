@@ -150,12 +150,11 @@
     "ASMSignature": true,
     "Key": "DIALOGPANEL_NAME",
     "PointerPath": [
-      28508224,
+      29379936,
       32,
       14504,
       544,
-      184,
-      0
+      218
     ],
     "Value": ""
   },
@@ -163,12 +162,11 @@
     "ASMSignature": true,
     "Key": "DIALOGPANEL_TEXT",
     "PointerPath": [
-      28508224,
+      29379936,
       32,
-      14504,
-      552,
-      184,
-      0
+      35144,
+      800,
+	  512
     ],
     "Value": ""
   },
@@ -176,9 +174,9 @@
     "ASMSignature": true,
     "Key": "DIALOGPANEL_TEXT_LENGTH",
     "PointerPath": [
-      28508224,
+      29379936,
       32,
-      14504,
+      27176,
       608
     ],
     "Value": ""
@@ -187,8 +185,7 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT1",
     "PointerPath": [
-      28508224,
-      264,
+      29379936,
       104,
       568,
       0
@@ -210,8 +207,7 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT_LENGTH",
     "PointerPath": [
-      28508224,
-      264,
+      29379936,
       104,
       584
     ],
@@ -221,8 +217,8 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_DETECTOR",
     "PointerPath": [
-      28465208,
-      264,
+      29334000,
+      304,
       8292
     ],
     "Value": ""
