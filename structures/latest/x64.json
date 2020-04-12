@@ -227,8 +227,10 @@
     "Size": 9200,
     "SourceSize": 200
   },
-    "DialogPanelPointers": {
+  "DialogPanelPointers": {
     "NameOffset": 0,
     "LengtsOffset": 18,
-  }  
+	"TextOffset": 0,
+	"TextLengthOffset": 16
+  }
 }
