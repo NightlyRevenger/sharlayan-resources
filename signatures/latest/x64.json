@@ -12,9 +12,9 @@
     "ASMSignature": true,
     "Key": "CHATLOG",
     "PointerPath": [
-      29640552,
-	  64,
-	  908
+      30317800,
+      144,
+      4564
     ],
     "Value": ""
   },
@@ -150,11 +150,11 @@
     "ASMSignature": true,
     "Key": "DIALOGPANEL_NAME",
     "PointerPath": [
-      29787136,
-      32,
-      14504,
-      544,
-      218
+      30466432,
+	  32,
+	  35144,
+	  544,
+	  218
     ],
     "Value": ""
   },
@@ -162,10 +162,10 @@
     "ASMSignature": true,
     "Key": "DIALOGPANEL_TEXT",
     "PointerPath": [
-      29787136,
-      32,
-      35144,
-      552,
+      30466432,
+	  32,
+	  14504,
+	  552,
 	  184
     ],
     "Value": ""
@@ -174,10 +174,10 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT1",
     "PointerPath": [
-      29787136,
-      104,
-      568,
-      0
+      30466432,
+	  104,
+	  568,
+	  0
     ],
     "Value": ""
   },
@@ -185,9 +185,8 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_TEXT_LENGTH",
     "PointerPath": [
-      29787136,
-      8,
-      33152
+      30317800,
+	  4264
     ],
     "Value": ""
   },
