@@ -194,8 +194,9 @@
     "ASMSignature": true,
     "Key": "CUTSCENE_DETECTOR",
     "PointerPath": [
-      29770272,
-      1924
+      30419016,
+	  544,
+	  8292
     ],
     "Value": ""
   }
