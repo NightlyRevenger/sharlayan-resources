@@ -22,10 +22,11 @@ jobs:
     - name: Single repo mirror
       uses: Yikun/hub-mirror-action@master
       with:
-        src: github/sharlayan-resources
-        dst: gitee/sharlayan-resources
+        src: github/NightlyRevenger
+        dst: gitee/nightlyrevenger
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         account_type: user
+        white_list: "sharlayan-resources"
         force_update: true
         debug: true
