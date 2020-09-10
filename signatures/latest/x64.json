@@ -148,56 +148,56 @@
     ]
   },
   {
-    "ASMSignature": true,
     "Key": "DIALOGPANEL_NAME",
+	"Value": "",
+	"ASMSignature": true,
     "PointerPath": [
       30466432,
 	  32,
 	  14504,
 	  544,
 	  218
-    ],
-    "Value": ""
+    ]
   },
   {
-    "ASMSignature": true,
     "Key": "DIALOGPANEL_TEXT",
+	"Value": "",
+	"ASMSignature": true,
     "PointerPath": [
 	  30466432,
 	  32,
 	  14504,
 	  552,
 	  184
-    ],
-    "Value": ""
+    ]
   },
   {
-    "ASMSignature": true,
     "Key": "CUTSCENE_TEXT1",
+	"Value": "",
+	"ASMSignature": true,
     "PointerPath": [
       30466432,
       104,
 	  568,
 	  0
-    ],
-    "Value": ""
+    ]
   },
   {
-    "ASMSignature": true,
     "Key": "CUTSCENE_TEXT_LENGTH",
+	"Value": "",
+	"ASMSignature": true,
     "PointerPath": [
 	  30466432,
 	  88,
 	  9936
-    ],
-    "Value": ""
+    ]
   },
   {
-    "ASMSignature": true,
     "Key": "CUTSCENE_DETECTOR",
+	"Value": "",
+	"ASMSignature": true,
     "PointerPath": [
       30427300
-    ],
-    "Value": ""
+    ]
   }
 ]
