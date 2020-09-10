@@ -29,4 +29,3 @@ jobs:
         account_type: user
         white_list: "sharlayan-resources"
         force_update: true
-        debug: true
