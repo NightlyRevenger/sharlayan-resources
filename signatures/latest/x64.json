@@ -152,10 +152,11 @@
 	"Value": "",
 	"ASMSignature": true,
     "PointerPath": [
-      30466432,
+      30470656,
 	  32,
-	  14504,
-	  544,
+	  35144,
+	  120,
+	  128,
 	  218
     ]
   },
@@ -164,9 +165,9 @@
 	"Value": "",
 	"ASMSignature": true,
     "PointerPath": [
-	  30466432,
+      30470656,
 	  32,
-	  14504,
+	  27168,
 	  552,
 	  184
     ]
@@ -176,8 +177,8 @@
 	"Value": "",
 	"ASMSignature": true,
     "PointerPath": [
-      30466432,
-      104,
+      30470656,
+	  104,
 	  568,
 	  0
     ]
@@ -187,9 +188,8 @@
 	"Value": "",
 	"ASMSignature": true,
     "PointerPath": [
-	  30466432,
-	  88,
-	  9936
+      30322024,
+      4264,
     ]
   },
   {
@@ -197,7 +197,7 @@
 	"Value": "",
 	"ASMSignature": true,
     "PointerPath": [
-      30427300
+      30431524
     ]
   }
 ]
